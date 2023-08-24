@@ -1,0 +1,110 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/apple/Desktop/playground 2/hardhat/contracts/MessagingApp.sol": {
+      "lastModificationDate": 1688331622856,
+      "contentHash": "3dda282162d0701b06d20a49824be363",
+      "sourceName": "contracts/MessagingApp.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "MessagingApp"
+      ]
+    },
+    "/Users/apple/Desktop/playground 2/hardhat/contracts/TodoList.sol": {
+      "lastModificationDate": 1688728246307,
+      "contentHash": "cd3e641fa12fc8a0b63060dc0f64ca6d",
+      "sourceName": "contracts/TodoList.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "TodoList"
+      ]
+    },
+    "/Users/apple/Desktop/playground 2/hardhat/contracts/TodoList2.sol": {
+      "lastModificationDate": 1688954536757,
+      "contentHash": "dcffb9e34f0c3e6daf07e86745be62bf",
+      "sourceName": "contracts/TodoList2.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "TodoList2"
+      ]
+    }
+  }
+}
